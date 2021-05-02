@@ -1,0 +1,7 @@
+Environment Creation 
+
+python -m venv api
+"api/scripts/activate"
+pip install boto
+pip install boto3 
+pip install FileChunkIO
